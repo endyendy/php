@@ -1,2 +1,2 @@
 # php
-練習
+phpinfoが入る
